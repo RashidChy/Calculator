@@ -16,4 +16,13 @@
           background-color: rgb(219, 219, 219) !important;
           box-shadow: 2px 2px 5px rgb(88, 88, 88);
       }
+      .calculator{
+            /* margin: 10% 35%; */
+            border: 2px solid rgb(165, 165, 165);
+            border-radius: 5px;
+            padding: 100x;
+            background-color: rgb(218, 218, 218);
+            box-shadow: 2px 2px 7px rgb(54, 54, 54);
+            transform: scale(1.2);
+      }
     }
