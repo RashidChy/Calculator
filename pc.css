@@ -1,0 +1,19 @@
+@media only screen and (min-width: 600px) {
+      .container{
+            margin-top: 5%;
+           
+      }
+
+      button{
+            padding: 5px 15px;
+            margin-left: 4.5px;
+            font-weight: bold;
+            height: 42px;
+            width: 42px;
+            color: rgb(63, 63, 63) !important;
+            font-weight: bold !important;
+            border: 0.5px solid rgb(182, 182, 182) !important;
+          background-color: rgb(219, 219, 219) !important;
+          box-shadow: 2px 2px 5px rgb(88, 88, 88);
+      }
+    }
